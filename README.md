@@ -1,2 +1,2 @@
 # Resume_Parser
-NLP based Python program priject in Jupyter notebook
+NLP based Python program project in Jupyter notebook
